@@ -2,7 +2,7 @@
 Basic perceptron learning using delta rule is demonstrated using line plot. Following line plot depicts
 the initial and final state of the classifier line as drawn using the initial and updated weight.
 
-![Initial state](1.png)   ![Final state](2.png)
+![Initial state](2.png)  ![Final state](1.png)
 
 ## Dependencies
 * Python3
